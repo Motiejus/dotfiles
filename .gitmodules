@@ -1,18 +1,18 @@
 [submodule "vim/.vim/pack/plugins/gotests-vim"]
-	path = vim/.vim/pack/plugins/gotests-vim
+	path = vim/.vim/pack/plugins/start/gotests-vim
 	url = https://github.com/buoto/gotests-vim.git
 [submodule "vim/.vim/pack/plugins/rust.vim"]
-	path = vim/.vim/pack/plugins/rust.vim
+	path = vim/.vim/pack/plugins/start/rust.vim
 	url = https://github.com/rust-lang/rust.vim
 [submodule "vim/.vim/pack/plugins/vim-fugitive"]
-	path = vim/.vim/pack/plugins/vim-fugitive
+	path = vim/.vim/pack/plugins/start/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive.git
 [submodule "vim/.vim/pack/plugins/vim-go"]
-	path = vim/.vim/pack/plugins/vim-go
+	path = vim/.vim/pack/plugins/start/vim-go
 	url = https://github.com/fatih/vim-go.git
 [submodule "vim/.vim/pack/plugins/vim-gutentags"]
-	path = vim/.vim/pack/plugins/vim-gutentags
+	path = vim/.vim/pack/plugins/start/vim-gutentags
 	url = https://github.com/ludovicchabant/vim-gutentags.git
 [submodule "vim/.vim/pack/plugins/vim-sensible"]
-	path = vim/.vim/pack/plugins/vim-sensible
+	path = vim/.vim/pack/plugins/start/vim-sensible
 	url = https://github.com/tpope/vim-sensible.git
