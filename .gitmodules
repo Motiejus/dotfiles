@@ -1,6 +1,3 @@
-[submodule "vim/.vim/pack/plugins/rust.vim"]
-	path = vim/.vim/pack/plugins/start/rust.vim
-	url = https://github.com/rust-lang/rust.vim
 [submodule "vim/.vim/pack/plugins/vim-fugitive"]
 	path = vim/.vim/pack/plugins/start/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive.git
