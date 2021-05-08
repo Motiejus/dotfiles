@@ -10,3 +10,6 @@
 [submodule "vim/.vim/pack/plugins/start/VOoM"]
 	path = vim/.vim/pack/plugins/start/VOoM
 	url = https://github.com/vim-voom/VOoM
+[submodule "vim/.vim/pack/plugins/start/vim-latex-folding"]
+	path = vim/.vim/pack/plugins/start/vim-latex-folding
+	url = https://github.com/Eckankar/vim-latex-folding
