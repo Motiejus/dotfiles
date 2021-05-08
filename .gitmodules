@@ -7,9 +7,6 @@
 [submodule "vim/.vim/pack/plugins/start/vim-go"]
 	path = vim/.vim/pack/plugins/start/vim-go
 	url = https://github.com/fatih/vim-go.git
-[submodule "vim/.vim/pack/plugins/start/zig.vim"]
-	path = vim/.vim/pack/plugins/start/zig.vim
-	url = https://github.com/ziglang/zig.vim
 [submodule "vim/.vim/pack/plugins/start/VOoM"]
 	path = vim/.vim/pack/plugins/start/VOoM
 	url = https://github.com/vim-voom/VOoM
